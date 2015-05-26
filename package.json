@@ -44,7 +44,7 @@
   "dependencies": {
     "deepmerge": "~0.2",
     "istanbul": "~0.3",
-    "jasmine-node": ">=1.14.5"
+    "jasmine-node": "https://github.com/hubba/jasmine-node/archive/Jasmine2.0.tar.gz"
   },
   "devDependencies": {
     "grunt": "~0.4",
